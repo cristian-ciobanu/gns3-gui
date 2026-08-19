@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.1.0a5 19/08/2026
+
+* feat(capture): update internal tail command
+* feat(capture): implement live packet capture with internal tail
+* Add support for Ptyxis terminal. Fixes #3834
+
 ## 2.2.61 30/07/2026
 
 * No changes
